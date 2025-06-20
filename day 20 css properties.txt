@@ -1,0 +1,50 @@
+CSS CORE PROPERTIES EXPLAINED:
+
+1. width / height:
+   - Defines the size of an element.
+   - Example: width: 300px;
+
+2. background-color:
+   - Sets the background color.
+   - Example: background-color: lightblue;
+
+3. border:
+   - Adds borders around elements. Supports style, width, and color.
+   - Example: border: 2px solid navy;
+
+4. border-radius:
+   - Rounds the corners of an element.
+   - Example: border-radius: 10px;
+
+5. color:
+   - Changes the text color.
+   - Example: color: darkblue;
+
+6. background-image:
+   - Sets an image as the background.
+   - Example: background-image: url('image.jpg');
+
+7. background-repeat:
+   - Controls whether the background image repeats.
+   - Example: background-repeat: no-repeat;
+
+8. background-size:
+   - Controls the size of the background image.
+   - Example: background-size: cover;
+
+9. background-position:
+   - Aligns the background image.
+   - Example: background-position: center;
+
+10. linear-gradient:
+    - Creates a gradient background.
+    - Example: background: linear-gradient(to right, red, blue);
+
+11. text-align:
+    - Aligns text (left, center, right).
+    - Example: text-align: center;
+
+12. padding / margin:
+    - Padding: space inside the element border.
+    - Margin: space outside the element border.
+    - Example: padding: 10px; margin: 20px;
